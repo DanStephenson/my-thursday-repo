@@ -3,3 +3,12 @@ body{
     color:yellow;
 
 }
+
+main{
+    background-color:white;
+    color:black;
+    width:70%;
+    margin:0 auto;
+}
+
+h1{background-color:yellow;}
